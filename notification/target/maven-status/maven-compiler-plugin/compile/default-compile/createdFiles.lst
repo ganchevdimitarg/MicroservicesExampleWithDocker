@@ -1,0 +1,8 @@
+com\example\notification\Notification.class
+com\example\notification\NotificationController.class
+com\example\notification\NotificationService.class
+com\example\notification\rabbitqm\NotificationConsumer.class
+com\example\notification\Notification$NotificationBuilder.class
+com\example\notification\NotificationRepository.class
+com\example\notification\NotificationConfig.class
+com\example\notification\NotificationApplication.class
